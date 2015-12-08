@@ -12,6 +12,9 @@ import org.apache.commons.collections.list.GrowthList;
  *
  */
 public class Person {
+	
+	
+	/** O nome da pessoa*/
     private final String name;
 
     public Person(String name) {
