@@ -5,7 +5,7 @@ import static org.junit.Assert.assertEquals;
 import org.junit.Test;
 
 /**
- * A test for person sdlkfjdlsfldsdld
+ * A test for person
  * 
  * @author jadson
  *
