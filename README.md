@@ -1,3 +1,3 @@
 # Test
 
-Project to traning with git
+Project to traning with GIT and Gradle
