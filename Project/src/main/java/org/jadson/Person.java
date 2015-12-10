@@ -3,7 +3,7 @@ package org.jadson;
 import org.apache.commons.collections.list.GrowthList;
 
 /**
- * Uma pessoa do meu sistemas
+ * Uma pessoa do meu sistema teste
  * 
  * @author jadson santos 3
  *
