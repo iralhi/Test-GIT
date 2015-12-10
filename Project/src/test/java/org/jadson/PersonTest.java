@@ -3,7 +3,9 @@ package org.jadson;
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
+
 /**
+ * A test for person
  * 
  * @author jadson
  *
