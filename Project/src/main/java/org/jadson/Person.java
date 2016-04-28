@@ -16,6 +16,8 @@ public class Person {
 	
     /** O nome da pessoa*/
     private final String name;
+    
+    private String cpf;
 
     public Person(String name) {
         this.name = name;
