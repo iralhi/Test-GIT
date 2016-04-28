@@ -17,7 +17,7 @@ public class Person {
     /** O nome da pessoa*/
     private final String name;
     
-    /* cpf da pessoa */
+    /* cpf da pessoa conflito aqui !!! */
     private String cpf;
 
     public Person(String name) {
