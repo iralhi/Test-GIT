@@ -1,3 +1,3 @@
 # Test
 
-Project to traning with GIT
+Project to traning with GIT.
