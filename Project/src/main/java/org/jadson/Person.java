@@ -17,7 +17,7 @@ import org.apache.commons.collections.list.GrowthList;
 public class Person {
 	
     /** O nome da pessoa*/
-    private final String name;
+    private String name = "Teste";
     
     /* cpf da pessoa conflito aqui !!! */
     private String cpf;
