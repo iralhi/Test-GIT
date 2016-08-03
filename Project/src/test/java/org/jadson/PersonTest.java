@@ -15,6 +15,10 @@ import org.junit.Test;
  *
  */
 public class PersonTest {
+	
+	/**
+	 * Test is a person was created with correctly name
+	 */
     @Test
     public void canConstructAPersonWithAName() {
         Person person = new Person("Larrya");
