@@ -2,6 +2,7 @@ package org.jadson;
 
 import static org.junit.Assert.assertEquals;
 
+import org.junit.Assert;
 import org.junit.Test;
 
 /**
@@ -23,5 +24,12 @@ public class PersonTest {
     public void canConstructAPersonWithAName() {
         Person person = new Person("Larrya");
         assertEquals("Larrya", person.getName());
+    }
+    
+    
+    @Test
+    public void personNameCannotBeEmpty() {
+        Person person = new Person("Larrya");
+        Assert.assertFalse(person.getName().equals(""));
     }
 }
