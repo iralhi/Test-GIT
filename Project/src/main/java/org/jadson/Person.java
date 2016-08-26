@@ -5,7 +5,7 @@ import org.apache.commons.collections.list.GrowthList;
 /**
  * A person of my test system
  * 
- * @author jadson santos
+ * @author Jadson Santos
  *
  * <p><i>This program is distributed without any warranty and it
  * can be freely redistributed for research, classes or private studies, 
