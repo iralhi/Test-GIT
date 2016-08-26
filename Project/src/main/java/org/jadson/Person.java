@@ -17,7 +17,7 @@ public class Person {
     /** O nome da pessoa*/
     private String name = "";
     
-    /* cpf da pessoa conflito aqui !!! */
+    /** identity  */
     private String cpf;
 
     public Person(String name) {
