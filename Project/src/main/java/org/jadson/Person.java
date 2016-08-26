@@ -14,7 +14,7 @@ import org.apache.commons.collections.list.GrowthList;
  */
 public class Person {
 	
-    /** O nome da pessoa*/
+    /** person name */
     private String name = "";
     
     /** identity  */
